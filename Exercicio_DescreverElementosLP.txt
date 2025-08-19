@@ -1,0 +1,15 @@
+Os paradigmas de linguagens de programação acabam nos trazendo conceitos que são transitáveis em diferentes linguagens, elementos lógicos como tipo de dados, entrada e saída, estrutura condicional, estrutura de repetição, arrays entre outros estão presentes em diferentes linguagens e inclusive em diferentes paradigmas.
+
+Analise a seguinte situação:
+
+É necessário criar uma calculadora para orçamento de venda de pisos em uma loja de construção. O programa deve ser executado por orçamento solicitado e seguir o fluxo: 
+
+1) Captar as informações do nome e do CPF do cliente.
+2) Captar a largura e o comprimento.
+3) Calcular a área usando a fórmula largura x comprimento.
+4) Conceder desconto de 10% se o metro quadrado total for maior que 100.
+5) Conceder desconto de 20% se o metro quadrado total for maior que 500.
+6) Mostrar resumo dos dados do orçamento.
+7) Perguntar ao usuário se quer repetir o orçamento ou finalizar o programa.
+ 
+Você como desenvolvedor foi designado para DESCREVER os elementos de LÓGICA DE PROGRAMAÇÃO que serão necessários para resolver o problema relatado e também os TIPOS DE DADOS das variáveis envolvidas.
